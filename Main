@@ -1,0 +1,29 @@
+import csv
+import sys
+
+attribute_name = ['ID Number','Full Name',  'Section',  'Date', 'Time']
+attendance_database = 'attendance.csv'
+
+
+def showMenu():
+    for i in range(0,1):
+    
+     for j in range(0,36):
+        print("*",end="")
+     print()
+
+    print("Student Attendance Management System")
+    
+    for i in range(0,1):
+    
+     for j in range(0,36):
+        print("*",end="")
+    print()
+
+    while True:
+        print("1. Add New Student Attendance")
+        print("2. View Student Attendance")
+        print("3. Search Student Attendance")
+        print("4. Update Student Attendance")
+        print("5. Delete Student Attendance")
+        print("6. EXIT")
