@@ -27,3 +27,37 @@ def showMenu():
         print("4. Update Student Attendance")
         print("5. Delete Student Attendance")
         print("6. EXIT")
+  #input choice
+        choice = ""
+        try:
+            choice = int(input("Enter your choice : "))
+    #handle input error      
+        except ValueError:
+            print ("Invalid Entry! Input should be a number.")
+            response = (input("Try again? [Y/N]: "))
+            print(f" ")
+
+            while response == 'Y':
+                choice = int(input("Enter your choice: "))
+                break
+
+        if choice == 1:
+            addAttendance()
+
+        elif choice == 2:
+            viewAttendance()
+
+        elif choice == 3:
+            searchAttendance()
+
+        elif choice == 4:
+            updateAttendance()
+
+        elif choice == 5:
+            deleteAttendance()
+
+        elif choice == 6:
+            print("Thank you for using the application!")
+            sys.exit()
+        else:
+            break
