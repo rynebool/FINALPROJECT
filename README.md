@@ -3,11 +3,12 @@
 Student Attendance Management System is a console application coded in Python programming language.It is a system where you can manage the students attendance information. You can also use this system to view students attendance details.
 
 # FEATURES
-Add New Student Attendance
-View Student Attendance
-Search Student Attendance
-Update Student Attendance
-Delete Student Attendance
+1. Add New Student Attendance
+2. View Student Attendance
+3. Search Student Attendance
+4. Update Student Attendance
+5. Delete Student Attendance
+6. EXIT
 
 
 # DEVELOPED BY
