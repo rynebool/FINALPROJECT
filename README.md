@@ -12,7 +12,7 @@ Delete Student Attendance
 
 # DEVELOPED BY
 
-Bool, Rynelyn S.
-Guera, Carlea Marie V.
-Macalalad, Divine Althea V.
-Talban, Clarence R.
+*  Bool, Rynelyn S.
+*  Guera, Carlea Marie V.
+*  Macalalad, Divine Althea V.
+*  Talban, Clarence R.
