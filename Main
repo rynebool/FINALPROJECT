@@ -158,3 +158,20 @@ def updateAttendance():
                 else:
                     updated_data.append(row)
                 counter += 1
+ else:
+                    attendance_found = True
+#checks if the student record is found or not
+    if attendance_found is True:
+        with open(attendance_database, "w", encoding="utf-8") as f:
+            writer = csv.writer(f)
+            writer.writerows(updated_data)
+        print("ID Number", idnumber, "deleted successfully!")
+
+#if no record is found
+    else:
+        print("ID Number not found in our database!\n")
+
+    input("Press any key to continue.")
+    print("\n")
+
+showMenu()
