@@ -189,12 +189,10 @@ def deleteAttendance():
     updated_data = []
     with open(attendance_database, "r", encoding="utf-8") as f:
         reader = csv.reader(f)
-        counter = 0
         for row in reader:
             if len(row) > 0:
                 if idnumber != row[0]:
                     updated_data.append(row)
-                    counter += 1
                 else:
                     attendance_found = True
 #checks if the student record is found or not
