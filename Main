@@ -5,20 +5,9 @@ attribute_name = ['ID Number','Full Name',  'Section',  'Date', 'Time']
 attendance_database = 'attendance.csv'
 
 def showMenu():
-    for i in range(0,1):
-    
-     for j in range(0,19):
-        print("*",end=" ")
-     print()
-
-    print("Student Attendance Management System")
-    
-    for i in range(0,1):
-    
-     for j in range(0,19):
-        print("*",end=" ")
-    print()
-
+    print("\n",21*'* ')
+    print("\n   Student Attendance Management System")
+    print("\n",21*'* ')
     while True:
         print("1. Add New Student Attendance")
         print("2. View Student Attendance")
