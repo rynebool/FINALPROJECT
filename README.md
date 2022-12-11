@@ -30,7 +30,18 @@ Non python files:
 | README.md | text file that describes and launches a project |
 | attendance.csv | CSV file used as databased for fo student records |
 
-#INSTALLATION
+Modules :
+| File Name | Description |
+| --------- | ------- |
+| Student | contains the functions that the admin or student can perfrom |
+
+Python:
+| File Name | Description |
+| --------- | ------- |
+| main.py | python file that contains the driver code |
+
+
+# INSTALLATION
 1. Click Student Management System to be directed to the project's repository.
 2. Click on the Code button, then download the repository as ZIP file.
 3. Locate the downloaded ZIP file, likely in your Downloads folder, and unzip it.
