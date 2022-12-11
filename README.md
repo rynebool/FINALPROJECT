@@ -10,6 +10,12 @@ A console application coded in Python programming language. It is a system where
 5. Delete Student Attendance
 6. EXIT
 
+Dependencies
+•All codes are written in Python 3
+•Some codes depends on the csv module
+    • student.py
+•Some codes depends on the sys module
+    •main.py
 
 # DEVELOPED BY
 
@@ -17,3 +23,5 @@ A console application coded in Python programming language. It is a system where
 *  Guera, Carlea Marie V.
 *  Macalalad, Divine Althea V.
 *  Talban, Clarence R.
+
+
