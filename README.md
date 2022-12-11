@@ -15,9 +15,11 @@ Dependencies
 •All codes are written in Python 3
 
 •Some codes depends on the csv module
+    
     • student.py
     
 •Some codes depends on the sys module
+    
     •main.py
 
 # DEVELOPED BY
