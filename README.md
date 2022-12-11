@@ -17,11 +17,3 @@ A console application coded in Python programming language. It is a system where
 *  Guera, Carlea Marie V.
 *  Macalalad, Divine Althea V.
 *  Talban, Clarence R.
-
-# Class Diagram
-classDiagram
-Class student : addAttendance()
-Class student : viewAttendance()
-Class student : searchAttendance()
-Class student : updateAttendance()
-Class student : deleteAttendance()
