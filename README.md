@@ -10,7 +10,7 @@ A console application coded in Python programming language. It is a system where
 5. Delete Student Attendance
 6. EXIT
 
-Dependencies
+# DEPENDENCIES
 
 •All codes are written in Python 3
 
