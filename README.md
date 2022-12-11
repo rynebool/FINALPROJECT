@@ -11,6 +11,7 @@ A console application coded in Python programming language. It is a system where
 6. EXIT
 
 Dependencies
+
 •All codes are written in Python 3
 
 •Some codes depends on the csv module
