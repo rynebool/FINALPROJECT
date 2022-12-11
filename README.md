@@ -41,7 +41,7 @@ Non python files:
 # DEVELOPED BY
 
 *  Bool, Rynelyn S.
-*  Guera, Carlea Marie V.
+*  Guerra, Carlea Marie V.
 *  Macalalad, Divine Althea V.
 *  Talban, Clarence R.
 
