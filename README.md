@@ -31,6 +31,7 @@ Non python files:
 | attendance.csv | CSV file used as databased for fo student records |
 
 
+#INSTALLATION
 1. Click Student Management System to be directed to the project's repository.
 2. Click on the Code button, then download the repository as ZIP file.
 3. Locate the downloaded ZIP file, likely in your Downloads folder, and unzip it.
