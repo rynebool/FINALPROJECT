@@ -28,7 +28,7 @@ Non python files:
 | File Name | Description |
 | --------- | ------- |
 | README.md | text file that describes and launches a project |
-| attendance.csv | CSV file used as databased for fo student records |
+| attendance.csv | CSV file used as databased for student records |
 
 Modules :
 | File Name | Description |
