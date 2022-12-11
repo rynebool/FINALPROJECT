@@ -21,6 +21,16 @@ A console application coded in Python programming language. It is a system where
 •Some codes depends on the sys module
     
     •main.py
+    
+# DESCRIPTION OF FILES
+
+Non python files:
+| File Name | Description |
+| --------- | ------- |
+| README.md | text file that describes and launches a project |
+| attendance.csv | CSV file used as databased for fo student records |
+
+
 
 # DEVELOPED BY
 
