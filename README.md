@@ -2,7 +2,7 @@
 
 A console application coded in Python programming language. It is a system where you can manage the students attendance information. You can also use this system to view students attendance details.
 
-# FEATURES
+# [GitHub Actions 🤖](#github-actions-)FEATURES
 1. ADD STUDENT ATTENDANCE INFORMATION.
 2. DELETE STUDENT ATTENDANCE INFORMATION.
 3. UPDATE STUDENT ATTENDANCE INFORMATION.
@@ -40,7 +40,7 @@ Python:
 | --------- | ------- |
 | main.py | python file that contains the driver code |
 
-# UML DIAGRAM
+# [Icons 🎯](#icons-)UML DIAGRAM
 * Open UML.txt and copy
 * Go to https://www.plantuml.com/ and paste the txt.
 ![uml_files](https://user-images.githubusercontent.com/114181229/206955762-67dd5912-db9b-4d43-97dc-1d9526a912ea.png)
@@ -54,7 +54,7 @@ Python:
 5. Open the file via any IDE that supports Python programming language.
 6. Then, run the file to launch the application
 
-# DEVELOPED BY
+# - [Dynamic Realtime 💫](#dynamic-realtime-)DEVELOPED BY
 
 *  [Bool, Rynelyn S.](https://github.com/rynebool)
 *  [Guerra, Carlea Marie V.](https://github.com/CarleaG)
