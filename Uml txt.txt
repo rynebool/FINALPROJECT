@@ -15,13 +15,37 @@ ActorFontName Courier
 ActorBackgroundColor<< Human >> Gold
 }
 
-User << Human >>
-:Main Database: as MySql << Application >>
-(Start) << One Shot >>
-(Use the application) as (Use) << Main >>
+student << Component >>
+note left: Folder
+note right: File
+:attendance.csv: as CSV << Student Sttendance_FINAL >>
+note right: Folder
+:main: as main << Student Sttendance_FINAL >>
+note right: Folder
+note left: file
+(Menu) as (Use) << Student Attendance Management System >>
 
-User -> (Start)
-User --> (Use)
+student --> (CSV)
+note right: File
+student --> (main)
+CSV --> (Use)
+main --> (Use)
 
-MySql --> (Use)
+
 @enduml
+
+
+@startuml
+set namespaceSeparator ::
+class student::student(Databae) {
+  +addAttendance()
+  +viewAttendance()
+  +searchAttendance()
+  +updateAttendance()
+  +deleteAttendance()
+}
+set namespaceSeparator ::
+class student::Database {
+ -attendance_database
+
+}
