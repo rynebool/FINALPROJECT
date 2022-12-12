@@ -65,9 +65,9 @@ Python:
 * [Talban, Clarence R.](https://github.com/Clarence2101)
 
 #  📊 SELF- ASSESSMENT
-|Name|Code Reusability| Maintainability|Scalability|Execution|Originality|Overall Impression|
+| Name | Code Reusability | Maintainability | Scalability | Execution | Originality| Overall Impression|
 |----|----|----|----|----|----|
-|Bool, Rynelyn S.|3|3|3|3|3|3|
-|Guerra, Carlea Marie V.|3|3|3|3|3|3|
-|Macalalad, Divine Althea V.|3|3|3|3|3|3|
-|Talban, Clarence R.|3|3|3|3|3|3|
+|Bool, Rynelyn S.| 3 | 3 | 3 | 3 | 3 | 3 |
+|Guerra, Carlea Marie V.| 3 | 3 | 3 | 3 | 3 | 3 |
+|Macalalad, Divine Althea V.| 3 | 3 | 3 | 3 | 3 | 3 |
+|Talban, Clarence R.| 3 | 3 | 3 | 3 | 3 | 3 |
