@@ -62,7 +62,7 @@ Python:
 * [Macalalad, Divine Althea V.](https://github.com/divinemacalalad)
 * [Talban, Clarence R.](https://github.com/Clarence2101)
 
-#   SELF- ASSESSMENT
+#  📊 SELF- ASSESSMENT
 |Name| Grade |
 |----|--------|
 |Bool, Rynelyn S.|3|
