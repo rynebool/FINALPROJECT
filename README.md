@@ -66,7 +66,7 @@ Python:
 
 #  📊 SELF- ASSESSMENT
 | Name | Code Reusability | Maintainability | Scalability | Execution | Originality| Overall Impression|
-|----|----|----|----|----|----|
+|----|----|----|----|----|----|----|
 |Bool, Rynelyn S.| 3 | 3 | 3 | 3 | 3 | 3 |
 |Guerra, Carlea Marie V.| 3 | 3 | 3 | 3 | 3 | 3 |
 |Macalalad, Divine Althea V.| 3 | 3 | 3 | 3 | 3 | 3 |
