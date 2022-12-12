@@ -2,7 +2,7 @@
 
 A console application coded in Python programming language. It is a system where you can manage the students attendance information. You can also use this system to view students attendance details.
 
-# [GitHub Actions 🤖](#github-actions-)FEATURES
+# 🤖FEATURES
 1. ADD STUDENT ATTENDANCE INFORMATION.
 2. DELETE STUDENT ATTENDANCE INFORMATION.
 3. UPDATE STUDENT ATTENDANCE INFORMATION.
