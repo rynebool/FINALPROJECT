@@ -3,12 +3,12 @@
 A console application coded in Python programming language. It is a system where you can manage the students attendance information. You can also use this system to view students attendance details.
 
 # FEATURES
-1. Add New Student Attendance
-2. View Student Attendance
-3. Search Student Attendance
-4. Update Student Attendance
-5. Delete Student Attendance
-6. EXIT
+1. ADD STUDENT ATTENDANCE INFORMATION.
+2. DELETE STUDENT ATTENDANCE INFORMATION.
+3. UPDATE STUDENT ATTENDANCE INFORMATION.
+4. VIEW ALL STUDENT ATTENDANCE INFORMATION.
+5. SEARCH STUDENT ATTENDANCE INFORMATION.
+6. EXIT SYSTEM.
 
 # DEPENDENCIES
 
@@ -20,20 +20,20 @@ A console application coded in Python programming language. It is a system where
     
 •Some codes depends on the sys module
     
-    •main.py
+    • main.py
     
 # DESCRIPTION OF FILES
 
 Non python files:
 | File Name | Description |
 | --------- | ------- |
-| README.md | text file that describes and launches a project |
-| attendance.csv | CSV file used as databased for student records |
+| README.md | project description and startup text file |
+| attendance.csv | CSV file used as databased for student attendance records |
 
-Modules :
+Component :
 | File Name | Description |
 | --------- | ------- |
-| Student | contains the functions that the admin or student can perfrom |
+| Student | contains the functions that the student can perfrom |
 
 Python:
 | File Name | Description |
@@ -45,7 +45,7 @@ Python:
 1. Click Student Management System to be directed to the project's repository.
 2. Click on the Code button, then download the repository as ZIP file.
 3. Locate the downloaded ZIP file, likely in your Downloads folder, and unzip it.
-4. Open the unzipped or the extracted folder and find Main.py file.
+4. Open the unzipped or the extracted folder and find main.py file.
 5. Open the file via any IDE that supports Python programming language.
 6. Then, run the file to launch the application
 
