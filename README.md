@@ -51,9 +51,9 @@ Python:
 
 # DEVELOPED BY
 
-*  Bool, Rynelyn S.
-*  Guerra, Carlea Marie V.
-*  Macalalad, Divine Althea V.
-*  Talban, Clarence R.
+*  [Bool, Rynelyn S.](https://github.com/rynebool)
+*  [Guerra, Carlea Marie V.](https://github.com/CarleaG)
+*  [Macalalad, Divine Althea V.](https://github.com/divinemacalalad)
+*  [Talban, Clarence R.](https://github.com/Clarence2101)
 
 
