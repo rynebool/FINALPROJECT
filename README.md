@@ -61,3 +61,11 @@ Python:
 * [Guerra, Carlea Marie V.](https://github.com/CarleaG)
 * [Macalalad, Divine Althea V.](https://github.com/divinemacalalad)
 * [Talban, Clarence R.](https://github.com/Clarence2101)
+
+#   SELF- ASSESSMENT
+|Name| Grade |
+|----|--------|
+|Bool, Rynelyn S.|3|
+|Guerra, Carlea Marie V.|3|
+|Macalalad, Divine Althea V.|3|
+|Talban, Clarence R.|3|
