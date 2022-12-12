@@ -40,6 +40,11 @@ Python:
 | --------- | ------- |
 | main.py | python file that contains the driver code |
 
+# UML DIAGRAM
+* Open UML.txt and copy
+* Go to ([https://www.plantuml.com/]) and paste the txt.
+![uml_files](https://user-images.githubusercontent.com/114181229/206955762-67dd5912-db9b-4d43-97dc-1d9526a912ea.png)
+![uml](https://user-images.githubusercontent.com/114181229/206955607-1d05e40b-64cd-489b-9104-9bda5527aa51.png)
 
 # INSTALLATION
 1. Click Student Management System to be directed to the project's repository.
