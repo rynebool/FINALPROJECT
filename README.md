@@ -2,7 +2,7 @@
 
 A console application coded in Python programming language. It is a system where you can manage the students attendance information. You can also use this system to view students attendance details.
 
-# 🤖FEATURES
+# 🤖 FEATURES
 1. ADD STUDENT ATTENDANCE INFORMATION.
 2. DELETE STUDENT ATTENDANCE INFORMATION.
 3. UPDATE STUDENT ATTENDANCE INFORMATION.
@@ -10,7 +10,7 @@ A console application coded in Python programming language. It is a system where
 5. SEARCH STUDENT ATTENDANCE INFORMATION.
 6. EXIT SYSTEM.
 
-# DEPENDENCIES
+# ✨ DEPENDENCIES
 
 •All codes are written in Python 3
 
@@ -22,7 +22,7 @@ A console application coded in Python programming language. It is a system where
     
     • main.py
     
-# DESCRIPTION OF FILES
+# 🌟 DESCRIPTION OF FILES
 
 Non python files:
 | File Name | Description |
@@ -40,13 +40,13 @@ Python:
 | --------- | ------- |
 | main.py | python file that contains the driver code |
 
-# [Icons 🎯](#icons-)UML DIAGRAM
+# 🎯 UML DIAGRAM
 * Open UML.txt and copy
 * Go to https://www.plantuml.com/ and paste the txt.
 ![uml_files](https://user-images.githubusercontent.com/114181229/206955762-67dd5912-db9b-4d43-97dc-1d9526a912ea.png)
 ![uml](https://user-images.githubusercontent.com/114181229/206955607-1d05e40b-64cd-489b-9104-9bda5527aa51.png)
 
-# INSTALLATION
+# 🏆 INSTALLATION
 1. Click Student Management System to be directed to the project's repository.
 2. Click on the Code button, then download the repository as ZIP file.
 3. Locate the downloaded ZIP file, likely in your Downloads folder, and unzip it.
@@ -54,7 +54,7 @@ Python:
 5. Open the file via any IDE that supports Python programming language.
 6. Then, run the file to launch the application
 
-# - [Dynamic Realtime 💫](#dynamic-realtime-)DEVELOPED BY
+# 💫 DEVELOPED BY
 
 *  [Bool, Rynelyn S.](https://github.com/rynebool)
 *  [Guerra, Carlea Marie V.](https://github.com/CarleaG)
