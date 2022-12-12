@@ -43,8 +43,8 @@ Python:
 # 🎯 UML DIAGRAM
 * Open UML.txt and copy
 * Go to https://www.plantuml.com/ and paste the txt.
-![uml](https://user-images.githubusercontent.com/114181229/206959860-5fd1371b-46ea-46c7-9d7e-6abd27696eca.png)
 
+![uml](https://user-images.githubusercontent.com/114181229/206959860-5fd1371b-46ea-46c7-9d7e-6abd27696eca.png)
 ![uml](https://user-images.githubusercontent.com/114181229/206955607-1d05e40b-64cd-489b-9104-9bda5527aa51.png)
 
 # 🏆 INSTALLATION
