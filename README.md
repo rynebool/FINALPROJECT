@@ -57,23 +57,7 @@ Python:
 
 # 💫 DEVELOPED BY
 
-[Bool, Rynelyn S.](https://github.com/rynebool)
-* [Email]()
-* [Facebook]()
-* [Instagram]()
-
-[Guerra, Carlea Marie V.](https://github.com/CarleaG)
-* [Email]()
-* [Facebook]()
-* [Instagram]()
-
-[Macalalad, Divine Althea V.](https://github.com/divinemacalalad)
-* [Email]()
-* [Facebook]()
-* [Instagram]()
-
-[Talban, Clarence R.](https://github.com/Clarence2101)
-* [Email]()
-* [Facebook]()
-* [Instagram]()
-
+* [Bool, Rynelyn S.](https://github.com/rynebool)
+* [Guerra, Carlea Marie V.](https://github.com/CarleaG)
+* [Macalalad, Divine Althea V.](https://github.com/divinemacalalad)
+* [Talban, Clarence R.](https://github.com/Clarence2101)
